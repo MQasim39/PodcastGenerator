@@ -3,7 +3,7 @@ from elevenlabs.api import History
 import os
 
 #Setting up the API key for eleven labs
-os.environ['ELEVENLABS_API_KEY'] = '3f27c5fbf1021f91573bc0fbe9fbd1b7'
+os.environ['ELEVENLABS_API_KEY'] = 'apikey'
 
 #This function will serve to generate audio for our podcast. The voice will be custom.
 #It will help in cloning voives of different people for us to use in the podcast
