@@ -12,7 +12,7 @@ from langchain.memory import ConversationBufferMemory
 import os
 
 #Setting up OPENAI API KEY
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'api-key'
 
 #Creating prompt template to generate conversation
 #This template is similar to a list of messages that will do the above stated job
